@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Engineer specialized in MERN & Next.js. Enthusiastic about Software Architecture, Scalable Systems, and Hybrid Solutions. Building for the future with TypeScript.
+Full Stack Engineer proficient in MERN & Next.js ecosystems. I write robust, type-safe code using TypeScript. Currently, I am channeling my passion into deep-diving Software Architecture, Scalable Systems, and Hybrid Solutions.
 
 
 ## 🌐 Socials:

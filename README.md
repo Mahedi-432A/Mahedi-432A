@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Mahedi%20Hasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=MERN+Stack+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
@@ -13,7 +13,15 @@
 
 
 # 💫 About Me:
-Full Stack Developer proficient in MERN & Next.js ecosystems. I write robust, type-safe code using TypeScript. Currently, I am channeling my passion into deep-diving Software Architecture, Scalable Systems, and Hybrid Solutions.
+### Hi there! 👋 I'm a MERN Stack Developer
+
+I hold a **B.Sc. in Computer Science & Engineering** and I'm passionate about building modern web applications. Currently, I am focused on mastering the ecosystem of **Next.js** and **TypeScript** to build type-safe and performant applications.
+
+- 🔭 **I’m currently working on:** Advanced web applications using Next.js & TypeScript.
+- 🎓 **Background:** B.Sc. in Computer Science & Engineering.
+- 🧠 **Interests:** My core interest lies in **Software Architecture** and System Design.
+- 💡 **Goal:** I aspire to build **scalable systems** and engineer robust **hybrid solutions** for complex problems.
+- ⚡ **Focus:** Writing clean, maintainable code and optimizing application performance.
 
 
 ## 🌐 Socials:
